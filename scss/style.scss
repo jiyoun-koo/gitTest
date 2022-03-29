@@ -9,8 +9,13 @@ section{
   justify-content: center;
   align-items: center;
   article{
+    display:flex;
+    justify-content: center;
+    align-items: center;
     width:200px;
     height:200px;
-    background-color: aqua;
+    color: #fff;
+    font-size: 32px;
+    background-color: hotpink;
   }
 }
